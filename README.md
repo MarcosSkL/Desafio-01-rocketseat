@@ -1,4 +1,4 @@
-# Corrigindo Bugs
+# Corrigindo Bugs - Projeto 1
 
 
 Nesse desafio, recebemos um código com o projeto desenvolvido durante as aulas da Fase 01, para corrigi-los
